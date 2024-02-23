@@ -1,0 +1,3 @@
+/Users/navaneeth1013/CLionProjects/RubiksSolver/cmake-build-debug/CMakeFiles/RubiksSolver.dir
+/Users/navaneeth1013/CLionProjects/RubiksSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/navaneeth1013/CLionProjects/RubiksSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
