@@ -8,4 +8,5 @@ add_executable(RubiksSolver main.cpp
         RubiksCube.h
         RubiksCube3d.cpp
         dfs.h
-        bfs.h)
+        bfs.h
+        IDDFS.h)
